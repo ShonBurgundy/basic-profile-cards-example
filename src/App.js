@@ -1,24 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import ProfileCard from "./ProfileCard";
+import AlexaImage from "./images/alexa.png";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      Personal Digital Assitants
+      <ProfileCard title="Alexa" handle="@alexa99" />
+      <ProfileCard title="Cortana" handle="@cortana32" />
+      <ProfileCard title="Siri" handle="@siri01" />
+    </>
   );
 }
 
