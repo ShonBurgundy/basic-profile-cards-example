@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description:
+This repo is a basic example of creating profile card with images & using Bulma.io for styles. It highlights the use of props and how to pass them as well as adding imagery.
+
 ## Once you have cloned this repo run the following to import all included packages:
 
 ### `npm i`
