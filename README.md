@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Once you have cloned this repo run the following to import all included packages:
+## Once you have cloned this repo run the following to import all included packages:
 
 ### `npm i`
 
